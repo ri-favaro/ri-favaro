@@ -1,8 +1,8 @@
 <h1 align="left">Hello 👋, me chamo Luiz Ricardo</h1>
 
-- 🖥️ Cursando Engenharia da Computação (8 semestre) 
+- 🖥️ Cursando Engenharia da Computação (10 semestre) 
 - 📖 Conhecimentos em: **Python, C++, C#, Assembly, Fusion360**
-- 🌱 Atualmente estudando: Sistemas de Controle, Inteligência Artificial, Sistemas Embarcados, Comunicações Digitais e Ciência do Ambiente e Gestão do Ambiente
+- 🌱 Atualmente estudando: Sistemas Integrados (CLP), Segurança da Informação, Sistemas Supervisórios.
 - 👀 Muito interessado em projetos que integram Hardware com Software. 
   
 
