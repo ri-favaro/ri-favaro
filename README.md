@@ -1,8 +1,8 @@
 <h1 align="left">Hello 👋, me chamo Luiz Ricardo</h1>
 
-- 🖥️ Cursando Engenharia da Computação (10 semestre) 
-- 📖 Conhecimentos em: **Python, C++, C#, Assembly, Fusion360**
-- 🌱 Atualmente estudando: Sistemas Integrados (CLP), Segurança da Informação, Sistemas Supervisórios.
+- 🖥️ Engenharia da Computação - Universidade Santa Cecília (Completo)
+- 🖥️ Engenharia de Software – MBA USP/ESALQ (cursando)
+- 📖 Conhecimentos em: **Python, C++, C#, Go, TypeScript, Javascript, Assembly, Fusion360**
 - 👀 Muito interessado em projetos que integram Hardware com Software. 
   
 
